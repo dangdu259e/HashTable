@@ -1,5 +1,5 @@
 # HashTable
-hash table adt and simple application
+hash table adt and simple application '\n'
 Đây là dự án cuối kì môn cấu trúc dữ liệu và giải thuật tại trường Đại Học Khoa học Tự Nhiên
 Người thực hiện: sinh viên Đặng Trung Du_ 18001108
                  sinh viên Nguyễn Anh Thư_ 18001212
