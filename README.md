@@ -4,5 +4,5 @@
 #### Người thực hiện: 
                     Sinh viên: Đặng Trung Du_18001108.
                     Sinh viên: Nguyễn Anh Thư_18001212.
-##### Bản báo cáo khoa học: https://drive.google.com/file/d/1Uj6aP1so1L-00apt7Cl_BogxLB6wpdZZ/view?usp=sharing
-##### Bản thuyết trình: https://drive.google.com/file/d/11NXSMiB2oPIhNpgvo_GsOyhF7wrD37FR/view?usp=sharing
+##### Bản báo cáo khoa học: https://drive.google.com/file/d/13-DTNifPtO65Tsr1fC0L49GampfwDFi2/view?usp=sharing
+##### Bản thuyết trình: https://drive.google.com/file/d/1CEZWOvrPlz_Ex_YFLyKvHZ7N0Ftvzp6t/view?usp=sharing
