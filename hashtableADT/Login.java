@@ -26,7 +26,6 @@ public class Login extends JFrame {
 	static String accountName;
 	static String password;
 	static String fileName = "input.txt";
-//	ArrayList<Account> list = new ArrayList<Account>();
 	Hashtable<String, String> a = new Hashtable<String, String>();
 
 	/**
@@ -126,7 +125,6 @@ public class Login extends JFrame {
 				// 	JOptionPane.showMessageDialog(null, "Success");
 				// } else {
 				// 	JOptionPane.showMessageDialog(null, "ERROR!");
-
 				// }
 				// key = pass
 				// value = account
@@ -145,14 +143,8 @@ public class Login extends JFrame {
 				cre.pack();
 				cre.setLocationRelativeTo(null);
 				cre.dispose();
-
 			}
 		});
-//		btnCreate.addActionListener(new ActionListener() {
-//			public void actionPerformed(ActionEvent e) {
-////				CreateAccount cre = new CreateAccount();
-//			}
-//		});
 
 		btnCreate.setBounds(255, 213, 85, 35);
 		frame.getContentPane().add(btnCreate);
