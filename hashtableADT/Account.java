@@ -3,7 +3,6 @@ package hashtableADT;
 public class Account {
     private String accountName;
     private String passWord;
-    private String name;
     
     public Account(){
 
